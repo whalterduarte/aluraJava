@@ -9,5 +9,6 @@ public class TransformandoTemperaturaEmGrausCelsius {
 
         int temperaturaFahrenheitEmInteiro = (int) temperaturaEmFahrenheit;
         System.out.println("A temperatura Fahrenheit em inteiro é " + temperaturaFahrenheitEmInteiro + "°F");
+        System.out.println("teste");
     }
 }
